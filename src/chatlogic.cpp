@@ -24,7 +24,7 @@ ChatLogic::~ChatLogic() {
   ////
 
   // delete chatbot instance
-  delete _chatBot;
+  // delete _chatBot;
 
   // _nodes will now be auto deleted
   // delete all nodes
